@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1630563050 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\garis.c
+	"garis.h"
+	"math.h"
+
+1630412291 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\garis.h
+	"boolean.h"
+	"point.h"
+
+1630479782 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\boolean.h
+
+1630479786 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\point.h
+	"boolean.h"
+
+1630563972 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\point.c
+	"point.h"
+	<stdio.h>
+	<math.h>
+
+1630561982 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\time.c
+	<stdio.h>
+	"time.h"
+
+1630479791 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\time.h
+	"boolean.h"
+
+1630559745 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\vector.c
+	"vector.h"
+	<math.h>
+
+1630412291 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\vector.h
+	"point.h"
+
+1630562229 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\mtime.c
+
+1630563926 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 1\praktikum\driver.c
+	<stdio.h>
+	"garis.h"
+	"vector.h"
+

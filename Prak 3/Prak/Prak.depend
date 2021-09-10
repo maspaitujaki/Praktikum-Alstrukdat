@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1631077590 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 3\prak\listpos.c
+	<stdio.h>
+	"listpos.h"
+
+1631051750 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 3\prak\listpos.h
+	"boolean.h"
+
+1630479782 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 3\prak\boolean.h
+
+1631164961 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 3\prak\mlistpos.c
+	<stdio.h>
+	"listpos.h"
+
+1631164888 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 3\prak\list_mono.c
+	<stdio.h>
+	"listpos.h"
+
