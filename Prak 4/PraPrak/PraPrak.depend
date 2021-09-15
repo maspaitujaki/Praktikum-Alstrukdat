@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631635497 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 4\praprak\listdin.c
+	"listdin.h"
+	<stdio.h>
+
+1631623689 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 4\praprak\listdin.h
+	"boolean.h"
+
+1630479782 d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 4\praprak\boolean.h
+
+1631635965 source:d:\onedrive\onedrive - institut teknologi bandung\arsip kuliah\wow informatika\semester 3 joss\algostrukdat\praktikum\prak 4\praprak\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listDin.h"
+
